@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML / CSS / JavaScript** & **Data Structures and Algorithms**
 
-- 💬 Ask me about my projects, such as my **Monkeypox Map project**, seen [here](https://github.com/eddwang/Monkeypox-Map)
+- 💬 Ask me about my projects, such as my **YahooBets project** that focuses on sentiment analysis, creating a stock chart, and finding relevant r/WallStreetBet and YahooFinance posts seen [here](https://github.com/eddwang/YahooBets)
 
 - 📫 Reach me: **edwardwang0000@gmail.com**
 
