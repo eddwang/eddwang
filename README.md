@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Edward / eddwang :smiley:!</h1>
 
-- 🔭 I’m currently working on **creating websites** through **HTML / CSS / JavaScript**
+- 🔭 I’m currently working on **completing my MSCS** @ **Georgia Tech**
 
-- 🌱 I’m currently learning **HTML / CSS / JavaScript** & **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Operating Systems** & **Artificial Intelligence for Robotics**
 
 - 💬 Ask me about my projects, such as my **YahooBets project** that focuses on sentiment analysis, creating a stock chart, and finding relevant r/WallStreetBet and YahooFinance posts seen [here](https://github.com/eddwang/YahooBets)
 
