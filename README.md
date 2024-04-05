@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on **completing my MSCS** @ **Georgia Tech**
 
-- 🌱 I’m currently learning **Operating Systems** & **Artificial Intelligence for Robotics**
-
-- 💬 Ask me about my projects, such as my **YahooBets project** that focuses on sentiment analysis, creating a stock chart, and finding relevant r/WallStreetBet and YahooFinance posts seen [here](https://github.com/eddwang/YahooBets)
-
 - 📫 Reach me: **edwang613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
